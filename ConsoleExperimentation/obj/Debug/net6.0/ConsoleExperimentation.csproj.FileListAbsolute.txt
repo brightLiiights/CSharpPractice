@@ -1,0 +1,15 @@
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\bin\Debug\net6.0\ConsoleExperimentation.exe
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\bin\Debug\net6.0\ConsoleExperimentation.deps.json
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\bin\Debug\net6.0\ConsoleExperimentation.runtimeconfig.json
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\bin\Debug\net6.0\ConsoleExperimentation.dll
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\bin\Debug\net6.0\ConsoleExperimentation.pdb
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.csproj.AssemblyReference.cache
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.AssemblyInfoInputs.cache
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.AssemblyInfo.cs
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.dll
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\refint\ConsoleExperimentation.dll
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.pdb
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ConsoleExperimentation.genruntimeconfig.cache
+C:\Users\Alejandro & Tori\ProjectsFolder\Practice\CSharp\Beginner\ConsoleExperimentation\ConsoleExperimentation\obj\Debug\net6.0\ref\ConsoleExperimentation.dll
