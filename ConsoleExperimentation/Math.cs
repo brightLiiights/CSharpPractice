@@ -5,6 +5,7 @@
         public static void Main(string[] args)
         {
             Console.Title = "Watchtower";
+            Console.WriteLine("Welcome to Watchtower!");
             Console.WriteLine("Press Any Key to Continue.. ");
             Console.ReadKey(true);
             Console.Clear();
@@ -67,7 +68,6 @@
                     Console.WriteLine("The enemy is NorthEast!");
                 }
             }
-
             Console.ReadLine();
         }
     }
