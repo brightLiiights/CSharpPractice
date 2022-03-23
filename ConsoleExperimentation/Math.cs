@@ -38,30 +38,49 @@
 
             //--------------------------TheDominionOfKings-------------------------------------------
 
-            Console.WriteLine("Hello King!");
-            Console.WriteLine("Enter the amount of estates you own: ");
 
-            string estates = Console.ReadLine();
-            int numberOfEstates = int.Parse(estates);
+            //----------------------------------------Level 8----------------------------------------
+            //The Defense of Consolas
+            Console.Title = "Defense of Consolas";
 
-            Console.WriteLine("Enter the amount of duchies you own: ");
+            Console.WriteLine("Welcome to the Defense of Consolas!");
+            Console.Write("Press Any Key to Continue..");
+            Console.ReadKey(true);
+            Console.Clear();
+            Console.Write("Target Row? ");
+            string tRow = Console.ReadLine();
+            int targetRow = int.Parse(tRow);
 
-            string duchies = Console.ReadLine();
-            int numberOfDuchies = int.Parse(duchies);
+            Console.Write("Target Column: ");
+            string tColumn = Console.ReadLine();
+            int targetColumn = int.Parse(tColumn);
 
-            Console.WriteLine("Lastly, enter the number of Provinces you hold: ");
+            //( x, y ) (row, column)
+            //North
+            int northRow = targetRow + 0;
+            int northColumn = targetColumn + 1;
+            string northBlock = $"({northRow},{northColumn})";
+            //East
+            int eastRow = targetRow + 1;
+            int eastColumn = targetColumn + 0;
+            string eastBlock = $"({eastRow},{eastColumn})";
+            //South
+            int southRow = targetRow + 0;
+            int southColumn = targetColumn -1;
+            string southBlock = $"({southRow},{southColumn})";
+            //West
+            int westRow = targetRow - 1;
+            int westColumn = targetColumn - 0;
+            string westBlock = $"({westRow},{westColumn})";
 
-            string provinces = Console.ReadLine();
-            int numberOfProvinces = int.Parse(provinces);
+            Console.WriteLine($"Deploy to:\n" +
+                $"{northBlock}\n" +
+                $"{eastBlock}\n" +
+                $"{southBlock}\n" +
+                $"{westBlock}");
 
-            int estatePoints = 1 * numberOfEstates;
-            int duchiesPoints = 3 * numberOfDuchies;
-            int provincesPoints = 6 * numberOfProvinces;
-
-            int kingdomPoints = estatePoints + duchiesPoints + provincesPoints;
-
-            Console.WriteLine("Given all the information you have provided, you my sir have a total of {0} points!", kingdomPoints);
-            Console.WriteLine("You should be proud My Lord!");
+            Console.WriteLine("The Defense system worked!");
+            Console.ReadLine();
         }
     }
 
