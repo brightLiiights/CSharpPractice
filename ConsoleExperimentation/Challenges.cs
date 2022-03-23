@@ -112,6 +112,94 @@ namespace ConsoleExperimentation
         //Console.WriteLine("The Defense system worked!");
         //Console.ReadLine();
 
+
+        //----------------Repairing the Clocktower---------------------
+        //Console.Title = "Repairing the Clocktower";
+        //Console.WriteLine("Welcome to Repair the Clocktower! ");
+        //Console.Write("Press any key to continue: ");
+        //Console.ReadKey(true);
+        //Console.Clear();
+
+        //Console.Write("Enter an integer: ");
+        //string uNumber = Console.ReadLine();
+        //int userNumber = int.Parse(uNumber);
+        //int finalNumber = userNumber % 2;
+        //if (finalNumber == 0)
+        //{
+        //    //Even
+        //    Console.WriteLine("Tick");
+        //}
+        //else
+        //{
+        //    //Odd
+        //    Console.WriteLine("Tock");
+        //}
+        //Console.ReadLine();
+
+        //---------------------------------WatchTower---------------------------------------------
+//        Console.Title = "Watchtower";
+//            Console.WriteLine("Press Any Key to Continue.. ");
+//            Console.ReadKey(true);
+//            Console.Clear();
+
+//            Console.WriteLine("Enter x value (1 - 3): ");
+//            string xVal = Console.ReadLine();
+//        int xValue = int.Parse(xVal);
+//        Console.Clear();
+
+//            Console.WriteLine("Enter y value (1 - 3): ");
+//            string yVal = Console.ReadLine();
+//        int yValue = int.Parse(yVal);
+//        Console.Clear();
+
+//            if (xValue == 1)
+//            {
+//                if (yValue == 1)
+//                {
+//                    Console.WriteLine("Enemy is South-West!");
+//                }
+//                if (yValue == 2)
+//                {
+//                    Console.WriteLine("Enemy is West!");
+//                }
+//if (yValue == 3)
+//{
+//    Console.WriteLine("Enemy is North-West!");
+//}
+
+//            }
+//            if (xValue == 2)
+//{
+//    if (yValue == 1)
+//    {
+//        Console.WriteLine("Enemy is South!");
+//    }
+//    if (yValue == 2)
+//    {
+//        Console.WriteLine("Enemy is directly in the Center!");
+//    }
+//    if (yValue == 3)
+//    {
+//        Console.WriteLine("Enemy is North!");
+//    }
+//}
+//if (xValue == 3)
+//{
+//    if (yValue == 1)
+//    {
+//        Console.WriteLine("Enemy is South-East!");
+//    }
+//    if (yValue == 2)
+//    {
+//        Console.WriteLine("Enemy is East!");
+//    }
+//    if (yValue == 3)
+//    {
+//        Console.WriteLine("Enemy is North-East!");
+//    }
+//}
+//Console.ReadLine();
+
     }
 
     //public class TriangleArea (Challenge)
