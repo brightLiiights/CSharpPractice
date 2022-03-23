@@ -112,6 +112,29 @@ namespace ConsoleExperimentation
         //Console.WriteLine("The Defense system worked!");
         //Console.ReadLine();
 
+        
+            //----------------Repairing the Clocktower---------------------
+            //Console.Title = "Repairing the Clocktower";
+            //Console.WriteLine("Welcome to Repair the Clocktower! ");
+            //Console.Write("Press any key to continue: ");
+            //Console.ReadKey(true);
+            //Console.Clear();
+
+            //Console.Write("Enter an integer: ");
+            //string uNumber = Console.ReadLine();
+            //int userNumber = int.Parse(uNumber);
+            //int finalNumber = userNumber % 2;
+            //if (finalNumber == 0)
+            //{
+            //    //Even
+            //    Console.WriteLine("Tick");
+            //}
+            //else
+            //{
+            //    //Odd
+            //    Console.WriteLine("Tock");
+            //}
+            //Console.ReadLine();
     }
 
     //public class TriangleArea (Challenge)
