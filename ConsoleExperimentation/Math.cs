@@ -67,6 +67,7 @@
                     Console.WriteLine("The enemy is NorthEast!");
                 }
             }
+
             Console.ReadLine();
         }
     }
