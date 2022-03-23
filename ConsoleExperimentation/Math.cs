@@ -19,50 +19,52 @@
             int yValue = int.Parse(yVal);
             Console.Clear();
 
-            if (xValue == 1)
-            {
-                if (yValue == 1)
-                {
-                    Console.WriteLine("Enemy is South-West!");
-                }
-                if (yValue == 2)
-                {
-                    Console.WriteLine("Enemy is West!");
-                }
-                if (yValue == 3)
-                {
-                    Console.WriteLine("Enemy is North-West!");
-                }
+            int x = xValue - 2;
+            int y = yValue - 2;
 
-            }
-            if (xValue == 2)
+            if (x < 0)
             {
-                if (yValue == 1)
+                if (y < 0)
                 {
-                    Console.WriteLine("Enemy is South!");
+                    Console.WriteLine("The enemy is Southwest!");
                 }
-                if (yValue == 2)
+                if (y == 0)
                 {
-                    Console.WriteLine("Enemy is directly in the Center!");
+                    Console.WriteLine("The enemy is West!");
                 }
-                if (yValue == 3)
+                if (y > 0)
                 {
-                    Console.WriteLine("Enemy is North!");
+                    Console.WriteLine("The enemy is Northwest!");
                 }
             }
-            if (xValue == 3)
+            if (x == 0)
             {
-                if (yValue == 1)
+                if (y < 0)
                 {
-                    Console.WriteLine("Enemy is South-East!");
+                    Console.WriteLine("The enemy is South!");
                 }
-                if (yValue == 2)
+                if (y == 0)
                 {
-                    Console.WriteLine("Enemy is East!");
+                    Console.WriteLine("The enemy is in the Center!");
                 }
-                if (yValue == 3)
+                if (y > 0)
                 {
-                    Console.WriteLine("Enemy is North-East!");
+                    Console.WriteLine("The enemy is North!");
+                }
+            }
+            if (x > 0)
+            {
+                if (y < 0)
+                {
+                    Console.WriteLine("The enemy is Southeast!");
+                }
+                if (y == 0)
+                {
+                    Console.WriteLine("The enemy is East!");
+                }
+                if (y > 0)
+                {
+                    Console.WriteLine("The enemy is NorthEast!");
                 }
             }
             Console.ReadLine();
